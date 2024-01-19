@@ -86,7 +86,7 @@ And $P-n\times nofnode$: record the coordinates of each node in real mesh.
 
     ***
 
-    <img src="C:\IGA\IGA_Poisson\figure\T_rectangle.jpg" alt="T_rectangle" style="zoom:80%;" />
+    <img src="https://github.com/SuperMiffy/FEM_Poisson/blob/main/figure/T_rectangle.jpg" alt="T_rectangle" style="zoom:80%;" />
 
 here $P_b=P,~T_b=T$.
 
@@ -94,7 +94,7 @@ here $P_b=P,~T_b=T$.
 
 - 3D cubic mesh:
 
-  <img src="C:\IGA\IGA_Poisson\figure\CubeMesh.png" alt="CubeMesh" style="zoom: 80%;" />
+  <img src="https://github.com/SuperMiffy/FEM_Poisson/blob/main/figure/CubeMesh.png" alt="CubeMesh" style="zoom: 80%;" />
 
 ### Stiffness matrix
 
