@@ -70,19 +70,19 @@ And $P-n\times nofnode$: record the coordinates of each node in real mesh.
 
     ![TriangleMesh](https://github.com/SuperMiffy/FEM_Poisson/blob/main/figure/T_triangle.jpg)
 
-    And its $P$ and $T$ matrix:<img src="C:\IGA\IGA_Poisson\figure\\P_triangle.jpg" alt="P_triangle" style="zoom:80%;" />
+    And its $P$ and $T$ matrix:<img src="https://github.com/SuperMiffy/FEM_Poisson/blob/main/figure/P_triangle.jpg" alt="P_triangle" style="zoom:80%;" />
 
     ***
 
-    ![T_triangle](figure/T_triangle.jpg)
+    ![T_triangle](https://github.com/SuperMiffy/FEM_Poisson/blob/main/figure/T_triangle.jpg)
 
   - rectangle mesh:
 
-    ![RectangleMesh](C:\IGA\IGA_Poisson\figure\RectangleMesh.jpg)
+    ![RectangleMesh](https://github.com/SuperMiffy/FEM_Poisson/blob/main/figure/RectangleMesh.jpg)
 
     And its $P$ and $T$ matrix:
 
-    <img src="C:\IGA\IGA_Poisson\figure\P_rectangle.jpg" alt="P_rectangle" style="zoom:80%;" />
+    <img src="https://github.com/SuperMiffy/FEM_Poisson/blob/main/figure/P_rectangle.jpg" alt="P_rectangle" style="zoom:80%;" />
 
     ***
 
