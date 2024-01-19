@@ -68,7 +68,7 @@ And $P-n\times nofnode$: record the coordinates of each node in real mesh.
 
   - triangle mesh: ==$h$ is the radius of circumcircle==
 
-    ![TriangleMesh](figure\TriangleMesh.jpg)
+    ![TriangleMesh](https://github.com/SuperMiffy/FEM_Poisson/blob/main/figure/T_triangle.jpg)
 
     And its $P$ and $T$ matrix:<img src="C:\IGA\IGA_Poisson\figure\\P_triangle.jpg" alt="P_triangle" style="zoom:80%;" />
 
