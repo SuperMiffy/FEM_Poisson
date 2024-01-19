@@ -74,7 +74,7 @@ And $P-n\times nofnode$: record the coordinates of each node in real mesh.
 
     ***
 
-    ![T_triangle](C:\IGA\IGA_Poisson\figure\T_triangle.jpg)
+    ![T_triangle](figure/T_triangle.jpg)
 
   - rectangle mesh:
 
