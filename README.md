@@ -309,7 +309,7 @@ nurbs_info.weights = [1,1,1,1]'; %column vector n*1
 
 - Mesh: Three h-refinement
 
-![Rectangle3Refinement](C:\IGA\IGA_Poisson\figure\Rectangle3Refinement.png)
+![Rectangle3Refinement](https://github.com/SuperMiffy/FEM_Poisson/blob/main/figure/Rectangle3Refinement.png)
 
 - error estimate:
 
@@ -363,7 +363,7 @@ nurbs_info.weights = [1,2*a,1,2*a,1,2*a,1,2*a,1]';
 
 - Mesh: Three times h-refinement
 
-![Disk3Refinement](C:\IGA\IGA_Poisson\figure\Disk3Refinement.png)
+![Disk3Refinement](https://github.com/SuperMiffy/FEM_Poisson/blob/main/figure/Disk3Refinement.png)
 
 - error estimate:
 
